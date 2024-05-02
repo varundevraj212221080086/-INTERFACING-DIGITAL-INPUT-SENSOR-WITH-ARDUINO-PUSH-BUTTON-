@@ -112,5 +112,6 @@ void loop()
 
 **
 RESULT:
+
  hence INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON was studied 
 
